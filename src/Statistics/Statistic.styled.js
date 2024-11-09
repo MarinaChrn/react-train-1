@@ -19,7 +19,7 @@ export const StatsList = styled.ul`
 export const StatsItem = styled.li`
   display: flex;
   flex-direction: column;
-  background-color: ${(props) => props.bgColor};
+  background-color: ${(props) => props.$bgColor};
   width: calc(100% / 5);
   padding: 10px 0;
 `;
