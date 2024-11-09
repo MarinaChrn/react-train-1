@@ -5,6 +5,7 @@ export const ListItemStyled = styled.li`
   gap: 15px;
   align-items: center;
   border: 1px solid #f1f1f1;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
   border-radius: 4px;
   width: 100%;
   padding: 8px 20px;

@@ -4,6 +4,7 @@ export const ProfileContainer = styled.div`
   margin: 20px;
   width: 280px;
   border: 1px solid #f1f1f1;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
   border-radius: 6px;
 `;
 
